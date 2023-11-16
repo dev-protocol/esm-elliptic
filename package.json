@@ -1,5 +1,5 @@
 {
-	"name": "elliptic",
+	"name": "@devprotocol/esm-elliptic",
 	"version": "1.0.0",
 	"description": "Template repository for convert Commonjs module to ES module",
 	"type": "module",
@@ -33,12 +33,13 @@
 		"@types/elliptic": "^6.4.17",
 		"elliptic": "^6.5.4",
 		"rimraf": "5.0.0",
-		"rollup": "^2.75.6"
+		"rollup": "^2.75.6",
+		"tslib": "^2.6.2",
+		"typescript": "5.2.2"
 	},
 	"devDependencies": {
 		"husky": "8.0.3",
-		"prettier": "3.1.0",
-		"typescript": "5.2.2"
+		"prettier": "3.1.0"
 	},
 	"repository": {
 		"type": "git",
