@@ -26,7 +26,7 @@
 	"author": "Dev Protocol",
 	"license": "MIT",
 	"dependencies": {
-		"@rollup/plugin-commonjs": "^25.0.0",
+		"@rollup/plugin-commonjs": "^26.0.0",
 		"@rollup/plugin-json": "^6.0.1",
 		"@rollup/plugin-node-resolve": "^15.0.0",
 		"@rollup/plugin-typescript": "^11.1.5",
