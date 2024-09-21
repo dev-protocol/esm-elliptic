@@ -33,7 +33,7 @@
 		"@types/elliptic": "^6.4.17",
 		"elliptic": "^6.5.4",
 		"rimraf": "5.0.10",
-		"rollup": "^2.75.6",
+		"rollup": "^3.0.0",
 		"tslib": "^2.6.2",
 		"typescript": "5.6.2"
 	},
